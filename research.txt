@@ -1,0 +1,152 @@
+Title:
+Automated Dharma Decision Support System: A Computational Approach to Ethical Decision-Making in Sanskrit Texts
+
+Abstract:
+This paper presents a novel approach to ethical decision-making using an Automated Dharma Decision Support System (AD-DSS) powered by Sanskrit Natural Language Processing (NLP). Unlike existing AI models that provide general philosophical insights, our system integrates Dharmaśāstra texts, Smṛtis, and Itihāsas into a structured decision-making framework. The AD-DSS leverages deep learning and rule-based logic to analyze ethical dilemmas and offer context-specific recommendations grounded in Dharmic principles. This research explores the challenges of computationally modeling Dharma, the methodology for text processing, and the system’s potential societal impact.
+
+1. Introduction
+
+Dharma plays a fundamental role in shaping ethical and moral decision-making in the Indian philosophical tradition. Texts like the Manusmṛti, Yājñavalkya Smṛti, and Bhagavad Gītā provide extensive discourse on moral dilemmas and governance. However, applying these teachings to modern ethical scenarios requires structured computational methods.
+
+Artificial Intelligence (AI) and Natural Language Processing (NLP) have advanced significantly, enabling the digitization and automated interpretation of complex texts. This paper introduces an Automated Dharma Decision Support System (AD-DSS) that bridges the gap between ancient wisdom and contemporary ethical challenges.
+
+Objectives of the Study
+
+Develop a structured framework for Dharma-based decision-making using Sanskrit NLP.
+
+Implement deep learning and rule-based logic to analyze ethical dilemmas.
+
+Evaluate the system’s effectiveness against traditional human decision-making.
+
+2. Literature Review
+
+Existing Work in Sanskrit NLP
+
+Several studies have explored the application of NLP to Sanskrit, focusing on text segmentation, dependency parsing, and machine translation. SanskritShala and other NLP initiatives have attempted to build computational models for Sanskrit processing. However, there is limited research on utilizing these models for ethical decision-making.
+
+AI-Based Ethical Decision Systems
+
+AI-driven ethical decision-making has been explored in Western philosophy through rule-based and machine-learning models. Projects like MIT’s Moral Machine have attempted to quantify ethics, but there is no equivalent initiative rooted in Dharmic traditions.
+
+Dharmaśāstra and Computational Ethics
+
+Previous research in computational ethics has mostly focused on legal systems. Dharmaśāstra, being a rule-based ethical system, offers a unique opportunity for AI modeling. This research addresses the gap by structuring Dharmaśāstra principles into an AI-compatible framework.
+
+3. Theoretical Framework
+
+Dharma, as discussed in Vedic literature, is categorized into universal (Sādhāraṇa Dharma) and contextual (Viśeṣa Dharma) obligations. The Nyāya school provides logical structuring, while Mimāṁsā aids in interpretative reasoning. These principles serve as the foundation for modeling decision-making in our system. The system incorporates:
+
+Sādhāraṇa Dharma: Universal ethical principles applicable to all humans.
+
+Viśeṣa Dharma: Context-specific moral obligations based on caste, profession, and life stage.
+
+Nyāya & Mimāṁsā Influence: Logical reasoning and hermeneutics to derive ethical rules.
+
+4. Methodology
+
+Corpus Selection
+
+The primary texts selected include:
+
+Manusmṛti: Ethical and legal principles.
+
+Bhagavad Gītā: Moral dilemmas and duty-based decision-making.
+
+Mahābhārata: Case studies of Dharma in action.
+
+Data Preprocessing
+
+OCR-based text extraction for digitized Sanskrit texts.
+
+Tokenization and lemmatization using Sanskrit NLP tools.
+
+Dependency parsing for contextual meaning extraction.
+
+NLP Model Development
+
+Named Entity Recognition (NER) for identifying key ethical principles.
+
+Knowledge graphs for mapping dilemmas to Dharmaśāstra rules.
+
+Transformer-based models trained on annotated Dharma texts.
+
+Decision Algorithm
+
+Hybrid approach combining rule-based logic and machine learning.
+
+Integration of case-based reasoning for precedent-based decision-making.
+
+Mapping ethical questions to Dharmaśāstra prescriptions.
+
+User Interaction System
+
+A chatbot or interactive AI model will allow users to input ethical dilemmas and receive structured recommendations based on Dharma principles.
+
+5. Implementation & Evaluation
+
+Model Testing
+
+Evaluation against historical ethical dilemmas from Dharmaśāstra.
+
+Comparison with human expert decision-making.
+
+Real-world simulation of modern ethical scenarios.
+
+Performance Metrics
+
+Accuracy in text interpretation: Evaluating how well the model understands Sanskrit texts.
+
+Coherence of ethical recommendations: Measuring the logical consistency of AI-generated Dharma decisions.
+
+User feedback and expert validation: Comparing AI responses with scholarly interpretations.
+
+6. Challenges & Limitations
+
+Interpretation Challenges
+
+Context Dependence: Dharma varies by context, making rule-based automation complex.
+
+Ambiguity in Ancient Texts: Sanskrit texts often contain poetic and metaphorical language, requiring careful interpretation.
+
+Technical Challenges
+
+Lack of Labeled Data: Sanskrit NLP resources are still limited compared to English NLP.
+
+Bias in AI Models: Machine learning models might reflect contemporary biases that are inconsistent with Dharmic thought.
+
+Ethical Concerns
+
+AI in Moral Decision-Making: Automating ethics raises concerns about accountability and authenticity.
+
+Applicability to Modern Law: Dharmaśāstra is not always directly translatable to modern legal frameworks.
+
+7. Societal Impact & Future Applications
+
+Use Cases
+
+Legal Studies and Dharma-Based Jurisprudence: AI-assisted analysis of ancient legal principles.
+
+AI-Assisted Learning: Educational tools for Sanskrit students and philosophy researchers.
+
+Personalized Ethical Guidance: AI-powered systems providing context-aware Dharma recommendations.
+
+Future Research Directions
+
+Expanding the Corpus: Including regional Dharma texts and diverse commentaries.
+
+Advanced AI Models: Enhancing contextual accuracy using fine-tuned language models.
+
+Integration with Conversational AI: Developing voice-based Dharma consultation systems.
+
+8. Conclusion
+
+This research introduces a novel AI-driven framework for Dharma-based ethical decision-making. By combining Sanskrit NLP, rule-based logic, and machine learning, the Automated Dharma Decision Support System (AD-DSS) provides structured, interpretable recommendations grounded in ancient wisdom. Future developments aim to refine the system’s contextual accuracy and expand its applicability to diverse ethical domains. The study demonstrates the feasibility of computational Dharma modeling and lays the foundation for future advancements in Sanskrit NLP and AI ethics.
+
+References
+
+Primary Dharmaśāstra texts.
+
+Recent research in Sanskrit NLP and AI ethics.
+
+Comparative studies on rule-based AI decision-making frameworks.
+
